@@ -1,2 +1,2 @@
 # hello-world
-i excited learn about technology
+i am a beginner
